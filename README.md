@@ -2,7 +2,7 @@
 <img width="4096" height="2896" alt="logo" src="https://github.com/user-attachments/assets/24314080-471f-4c20-bad7-c7a197699a3a" />
 
 ## READEME
-本專案Pang Family Web問題報告。若沒有GitHub帳戶，請以網站內提供的聯絡方式聯絡開發者。
+本專案用於Pang Family Web問題報告。若沒有GitHub帳戶，請以網站內提供的聯絡方式聯絡開發者。
 
 ## ISSUES
 報告問題：   
