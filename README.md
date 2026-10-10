@@ -1,5 +1,6 @@
 # Pang Family Web: Issues
-<img width="4096" height="2896" alt="logo" src="https://github.com/user-attachments/assets/24314080-471f-4c20-bad7-c7a197699a3a" />
+<img width="4096" height="2896" alt="logo" src="https://github.com/user-attachments/assets/9f7d5bea-bf8b-4840-9f90-60277e0f8588" />
+
 
 ## READEME
 本專案用於Pang Family Web問題報告。若沒有GitHub帳戶，請以網站內提供的聯絡方式聯絡開發者。
